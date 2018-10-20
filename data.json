@@ -1,22 +1,22 @@
 {
-    "customers":[
-        {
-            "id": "1",
-            "name": "John Doe",
-            "email": "john@gmail.com",
-            "age": "36"
-        },
-        {   
-            "id": "2",
-            "name": "Sara Doe",
-            "email": "sara@gmail.com",
-            "age": "22"
-        },
-        {
-            "id": "3",
-            "name": "Kristi Doe",
-            "email": "krisi@gmail.com",
-            "age": "15"
-        }
-    ]
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "age": 22
+    },
+    {
+      "id": "3",
+      "name": "Kristi Doe",
+      "email": "krisi@gmail.com",
+      "age": 15
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 23,
+      "id": "hFN0TtG"
+    }
+  ]
 }
